@@ -5,7 +5,7 @@ Better yet, I am  fervent advocate for using innovative data collection technolo
 
 ### Stoic Life 👨‍🎓
 - **Working:** Enforcing the Rule of Law in the EU & Causal Inference Research Methodology
--  **Reading:** **Reading:** _Arrival the Fittest: Solving Evolution's Greatest Puzzle_ by Andreas Wagner
+-  **Reading:** _Arrival the Fittest: Solving Evolution's Greatest Puzzle_ by Andreas Wagner
 - **Published:** *Article:* "Follow the Leader: The European Commission, the European Court of Justice, and the EU’s Rule of Law Revolution" co-author with Tom Pavone. [Read Here](https://doi.org/10.1080/13501763.2024.2336125) 
 
 ### Stats 📊
